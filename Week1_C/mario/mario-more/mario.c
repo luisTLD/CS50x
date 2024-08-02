@@ -24,4 +24,6 @@ int main(void){
 
         printf("%s\n", pyramid);
     } while (first >= 0);
+
+    return 0;
 }

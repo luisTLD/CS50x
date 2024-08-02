@@ -18,4 +18,6 @@ int main(void){
         pyramid[i] = '#';
         printf("%s\n", pyramid);
     }
+
+    return 0;
 }

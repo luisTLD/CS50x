@@ -27,6 +27,7 @@ int main(int argc, string argv[]){
     } while (input[index]);
 
     printf("ciphertext: %s\n", input);
+    
     return 0;
 }
 

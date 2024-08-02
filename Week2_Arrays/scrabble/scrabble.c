@@ -12,6 +12,8 @@ int main(void){
     if (compute_score(player1, points) > compute_score(player2, points)) printf("Player 1 wins!\n");
     else if (compute_score(player1, points) < compute_score(player2, points)) printf("Player 2 wins!\n");
     else printf("Tie!\n");
+
+    return 0;
 }
 
 int compute_score(string word, int points[]){
