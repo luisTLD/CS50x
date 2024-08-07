@@ -10,5 +10,5 @@
 - Various sort algorithms, including bubble sort, selection sort, and merge sort.
 - Recursion.
 
-## Exercises
+# Exercises
 - https://cs50.harvard.edu/x/2024/psets/3/
