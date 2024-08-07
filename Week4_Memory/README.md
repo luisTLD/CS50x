@@ -1,6 +1,6 @@
 # Memory
+- Pointers. Segmentation Faults. Dynamic Memory Allocation. Stack. Heap. Buffer Overflow. File I/O. Images.
 - https://cs50.harvard.edu/x/2024/notes/4/
-- 
 ## Summing Up
 - Pixel art
 - Hexadecimal
@@ -16,6 +16,5 @@
 - Overflow
 - scanf
 - File I/O
-- 
 # Exercises
 - https://cs50.harvard.edu/x/2024/psets/4/
