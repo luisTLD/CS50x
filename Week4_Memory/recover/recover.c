@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Exemple: ./recover card.raw
+
 int main(int argc, char *argv[])
 {
     // Accept a single command-line argument

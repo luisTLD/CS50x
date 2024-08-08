@@ -4,6 +4,8 @@
 
 #include "helpers.h"
 
+// Exemple: ./filter -g images/yard.bmp out.bmp
+
 int main(int argc, char *argv[])
 {
     // Define allowable filters

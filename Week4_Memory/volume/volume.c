@@ -7,6 +7,8 @@
 // Number of bytes in .wav header
 const int HEADER_SIZE = 44;
 
+// Exemple: ./volume input.wav output.wav 2.0
+
 int main(int argc, char *argv[])
 {
     // Check command-line arguments
