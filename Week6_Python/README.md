@@ -14,6 +14,6 @@
 - Dictionaries
 - Command-line arguments
 - Third-Party libraries
-- 
+
 # Exercises
 - https://cs50.harvard.edu/x/2024/psets/6/
