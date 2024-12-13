@@ -1,0 +1,20 @@
+Question 1: If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+By averaging the energy, valence, and danceability values of the top 100 songs, we can describe their aura.
+For example:
+
+    High energy (e.g., 0.75): lively and intense.
+    Moderate valence (e.g., 0.6): somewhat positive mood.
+    High danceability (e.g., 0.8): suitable for dancing.
+    This suggests an energetic and upbeat aura.
+
+Question 2: Why might this method not be very representative, and how could it be improved?
+Limitations:
+
+    Treats all songs equally, ignoring play frequency.
+    Ignores temporal or contextual differences (e.g., mood changes).
+
+Improvements:
+
+    Weight songs by play count.
+    Analyze by time periods (e.g., seasons).
+    Exclude outliers that skew results.
